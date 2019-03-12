@@ -1,0 +1,28 @@
+.run {
+	background:url(img/run.png) no-repeat 16px 16px;
+	background-position:2px 2px;
+}
+
+.saveq {
+	background:url(img/close.gif) no-repeat 16px 16px;
+	background-position:2px 2px;
+}
+
+.delq {
+	background:url(img/close.gif) no-repeat 16px 16px;
+	background-position:2px 2px;
+}
+
+.etxt {
+	background:url(img/txt.png) no-repeat 16px 16px;
+	background-position:2px 2px;
+}
+.exls {
+	background:url(img/xls.png) no-repeat 16px 16px;
+	background-position:2px 2px;
+}
+.ecsv {
+	background:url(img/csv.png) no-repeat 16px 16px;
+	background-position:2px 2px;
+}
+

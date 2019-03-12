@@ -1,0 +1,31 @@
+﻿[{
+"align":"","bizDomain":"","bizNo":"","chName":"  ","cmt":" ","crtDate":null,"crtUser":"","cycle":"","dataType":"NUMBER","defValue":"",
+"defaultView":"","fieldInMetas":false,"fileHeader":"PDQM.CONF_DICTITEM","fileName":"","fmtRule":"","id":"","index":0,"itf":false,"lastUpdate":null,
+"length":19,"lvel":"","mgrType":"","name":"ID","namespace":"PDQM","nullable":false,"parent":null,"personalProperties":"CONF_DICTITEM","pk":false,
+"precision":19,"refObject":null,"scale":0,"showLength":0,"tenantid":"","title":"","type":"NUMBER(19)","useTable":"","version":""
+},{
+"align":"","bizDomain":"","bizNo":"","chName":"  ","cmt":" ","crtDate":null,"crtUser":"","cycle":"","dataType":"VARCHAR2","defValue":"",
+"defaultView":"","fieldInMetas":false,"fileHeader":"PDQM.CONF_DICTITEM","fileName":"","fmtRule":"","id":"","index":0,"itf":false,"lastUpdate":null,
+"length":500,"lvel":"","mgrType":"","name":"DESCRIPTION","namespace":"PDQM","nullable":true,"parent":null,"personalProperties":"CONF_DICTITEM","pk":false,
+"precision":500,"refObject":null,"scale":0,"showLength":0,"tenantid":"","title":"","type":"VARCHAR2(500)","useTable":"","version":""
+},{
+"align":"","bizDomain":"","bizNo":"","chName":"  ","cmt":" ","crtDate":null,"crtUser":"","cycle":"","dataType":"VARCHAR2","defValue":"",
+"defaultView":"","fieldInMetas":false,"fileHeader":"PDQM.CONF_DICTITEM","fileName":"","fmtRule":"","id":"","index":0,"itf":false,"lastUpdate":null,
+"length":200,"lvel":"","mgrType":"","name":"NAME","namespace":"PDQM","nullable":false,"parent":null,"personalProperties":"CONF_DICTITEM","pk":false,
+"precision":200,"refObject":null,"scale":0,"showLength":0,"tenantid":"","title":"","type":"VARCHAR2(200)","useTable":"","version":""
+},{
+"align":"","bizDomain":"","bizNo":"","chName":"  ","cmt":" ","crtDate":null,"crtUser":"","cycle":"","dataType":"NUMBER","defValue":"",
+"defaultView":"","fieldInMetas":false,"fileHeader":"PDQM.CONF_DICTITEM","fileName":"","fmtRule":"","id":"","index":0,"itf":false,"lastUpdate":null,
+"length":10,"lvel":"","mgrType":"","name":"ORDERBY","namespace":"PDQM","nullable":true,"parent":null,"personalProperties":"CONF_DICTITEM","pk":false,
+"precision":10,"refObject":null,"scale":0,"showLength":0,"tenantid":"","title":"","type":"NUMBER(10)","useTable":"","version":""
+},{
+"align":"","bizDomain":"","bizNo":"","chName":"  ","cmt":" ","crtDate":null,"crtUser":"","cycle":"","dataType":"NUMBER","defValue":"",
+"defaultView":"","fieldInMetas":false,"fileHeader":"PDQM.CONF_DICTITEM","fileName":"","fmtRule":"","id":"","index":0,"itf":false,"lastUpdate":null,
+"length":19,"lvel":"","mgrType":"","name":"DICTIONARY","namespace":"PDQM","nullable":true,"parent":null,"personalProperties":"CONF_DICTITEM","pk":false,
+"precision":19,"refObject":null,"scale":0,"showLength":0,"tenantid":"","title":"","type":"NUMBER(19)","useTable":"","version":""
+},{
+"align":"","bizDomain":"","bizNo":"","chName":"  ","cmt":" ","crtDate":null,"crtUser":"","cycle":"","dataType":"VARCHAR2","defValue":"",
+"defaultView":"","fieldInMetas":false,"fileHeader":"PDQM.CONF_DICTITEM","fileName":"","fmtRule":"","id":"","index":0,"itf":false,"lastUpdate":null,
+"length":50,"lvel":"","mgrType":"","name":"CODE","namespace":"PDQM","nullable":true,"parent":null,"personalProperties":"CONF_DICTITEM","pk":false,
+"precision":50,"refObject":null,"scale":0,"showLength":0,"tenantid":"","title":"","type":"VARCHAR2(50)","useTable":"","version":""
+}]

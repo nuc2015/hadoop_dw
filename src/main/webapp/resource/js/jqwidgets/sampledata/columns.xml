@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<columnList>
+  <column OrderID="0">
+    <index>0</index>
+    <name>ID</name>
+    <type>NUMBER(19)</type>
+    <pk>true</pk>
+    <nullable>false</nullable>
+  </column>
+  <column OrderID="1">
+    <index>1</index>
+    <name>DESCRIPTION</name>
+    <type>VARCHAR2(500)</type>
+    <pk>false</pk>
+    <nullable>false</nullable>
+  </column>
+</columnList>
+
